@@ -1,0 +1,1451 @@
+[
+    {
+        "id": 299317,
+        "name": "BB",
+        "collector_number": "OP08-035",
+        "rarity": "Common",
+        "expansion_id": 3828,
+        "expansion_name": "OP-08: Two Legends",
+        "image_url": ""
+    },
+    {
+        "id": 299308,
+        "name": "Nekomamushi",
+        "collector_number": "OP08-028",
+        "rarity": "Uncommon",
+        "expansion_id": 3828,
+        "expansion_name": "OP-08: Two Legends",
+        "image_url": ""
+    },
+    {
+        "id": 299282,
+        "name": "Dalton",
+        "collector_number": "OP08-008",
+        "rarity": "Rare",
+        "expansion_id": 3828,
+        "expansion_name": "OP-08: Two Legends",
+        "image_url": ""
+    },
+    {
+        "id": 299288,
+        "name": "Robson",
+        "collector_number": "OP08-013",
+        "rarity": "Uncommon",
+        "expansion_id": 3828,
+        "expansion_name": "OP-08: Two Legends",
+        "image_url": ""
+    },
+    {
+        "id": 299274,
+        "name": "Twenty Doctors",
+        "collector_number": "OP08-003",
+        "rarity": "Common",
+        "expansion_id": 3828,
+        "expansion_name": "OP-08: Two Legends",
+        "image_url": ""
+    },
+    {
+        "id": 299275,
+        "name": "Kuromarimo",
+        "collector_number": "OP08-004",
+        "rarity": "Common",
+        "expansion_id": 3828,
+        "expansion_name": "OP-08: Two Legends",
+        "image_url": ""
+    },
+    {
+        "id": 299309,
+        "name": "Pekoms",
+        "collector_number": "OP08-029",
+        "rarity": "Common",
+        "expansion_id": 3828,
+        "expansion_name": "OP-08: Two Legends",
+        "image_url": ""
+    },
+    {
+        "id": 299313,
+        "name": "Miyagi",
+        "collector_number": "OP08-031",
+        "rarity": "Common",
+        "expansion_id": 3828,
+        "expansion_name": "OP-08: Two Legends",
+        "image_url": ""
+    },
+    {
+        "id": 299314,
+        "name": "Milky",
+        "collector_number": "OP08-032",
+        "rarity": "Uncommon",
+        "expansion_id": 3828,
+        "expansion_name": "OP-08: Two Legends",
+        "image_url": ""
+    },
+    {
+        "id": 299316,
+        "name": "Wanda",
+        "collector_number": "OP08-034",
+        "rarity": "Rare",
+        "expansion_id": 3828,
+        "expansion_name": "OP-08: Two Legends",
+        "image_url": ""
+    },
+    {
+        "id": 299305,
+        "name": "Shishilian",
+        "collector_number": "OP08-025",
+        "rarity": "Common",
+        "expansion_id": 3828,
+        "expansion_name": "OP-08: Two Legends",
+        "image_url": ""
+    },
+    {
+        "id": 299272,
+        "name": "Marco",
+        "collector_number": "OP08-002",
+        "rarity": "Leader",
+        "expansion_id": 3828,
+        "expansion_name": "OP-08: Two Legends",
+        "image_url": ""
+    },
+    {
+        "id": 299306,
+        "name": "Giovanni",
+        "collector_number": "OP08-026",
+        "rarity": "Common",
+        "expansion_id": 3828,
+        "expansion_name": "OP-08: Two Legends",
+        "image_url": ""
+    },
+    {
+        "id": 299283,
+        "name": "Maria Onion Bear",
+        "collector_number": "OP08-009",
+        "rarity": "Common",
+        "expansion_id": 3828,
+        "expansion_name": "OP-08: Two Legends",
+        "image_url": ""
+    },
+    {
+        "id": 299287,
+        "name": "Lapins",
+        "collector_number": "OP08-012",
+        "rarity": "Uncommon",
+        "expansion_id": 3828,
+        "expansion_name": "OP-08: Two Legends",
+        "image_url": ""
+    },
+    {
+        "id": 299286,
+        "name": "Musshuru",
+        "collector_number": "OP08-011",
+        "rarity": "Common",
+        "expansion_id": 3828,
+        "expansion_name": "OP-08: Two Legends",
+        "image_url": ""
+    },
+    {
+        "id": 299298,
+        "name": "Drum Kingdom",
+        "collector_number": "OP08-020",
+        "rarity": "Common",
+        "expansion_id": 3828,
+        "expansion_name": "OP-08: Two Legends",
+        "image_url": ""
+    },
+    {
+        "id": 299315,
+        "name": "Roddy",
+        "collector_number": "OP08-033",
+        "rarity": "Common",
+        "expansion_id": 3828,
+        "expansion_name": "OP-08: Two Legends",
+        "image_url": ""
+    },
+    {
+        "id": 299299,
+        "name": "Carrot",
+        "collector_number": "OP08-021",
+        "rarity": "Leader",
+        "expansion_id": 3828,
+        "expansion_name": "OP-08: Two Legends",
+        "image_url": ""
+    },
+    {
+        "id": 299278,
+        "name": "Chessmarimo",
+        "collector_number": "OP08-006",
+        "rarity": "Uncommon",
+        "expansion_id": 3828,
+        "expansion_name": "OP-08: Two Legends",
+        "image_url": ""
+    },
+    {
+        "id": 299297,
+        "name": "Munch-Munch Mutation",
+        "collector_number": "OP08-019",
+        "rarity": "Uncommon",
+        "expansion_id": 3828,
+        "expansion_name": "OP-08: Two Legends",
+        "image_url": ""
+    },
+    {
+        "id": 299289,
+        "name": "Wapol",
+        "collector_number": "OP08-014",
+        "rarity": "Rare",
+        "expansion_id": 3828,
+        "expansion_name": "OP-08: Two Legends",
+        "image_url": ""
+    },
+    {
+        "id": 299319,
+        "name": "Electrical Luna",
+        "collector_number": "OP08-036",
+        "rarity": "Rare",
+        "expansion_id": 3828,
+        "expansion_name": "OP-08: Two Legends",
+        "image_url": ""
+    },
+    {
+        "id": 299301,
+        "name": "Inuarashi",
+        "collector_number": "OP08-022",
+        "rarity": "Uncommon",
+        "expansion_id": 3828,
+        "expansion_name": "OP-08: Two Legends",
+        "image_url": ""
+    },
+    {
+        "id": 299277,
+        "name": "Chess",
+        "collector_number": "OP08-005",
+        "rarity": "Common",
+        "expansion_id": 3828,
+        "expansion_name": "OP-08: Two Legends",
+        "image_url": ""
+    },
+    {
+        "id": 299284,
+        "name": "Hiking Bear",
+        "collector_number": "OP08-010",
+        "rarity": "Uncommon",
+        "expansion_id": 3828,
+        "expansion_name": "OP-08: Two Legends",
+        "image_url": ""
+    },
+    {
+        "id": 299295,
+        "name": "I'd Never Shoot You!!!!",
+        "collector_number": "OP08-017",
+        "rarity": "Common",
+        "expansion_id": 3828,
+        "expansion_name": "OP-08: Two Legends",
+        "image_url": ""
+    },
+    {
+        "id": 299304,
+        "name": "Concelot",
+        "collector_number": "OP08-024",
+        "rarity": "Uncommon",
+        "expansion_id": 3828,
+        "expansion_name": "OP-08: Two Legends",
+        "image_url": ""
+    },
+    {
+        "id": 299291,
+        "name": "Dr.Kureha",
+        "collector_number": "OP08-015",
+        "rarity": "Rare",
+        "expansion_id": 3828,
+        "expansion_name": "OP-08: Two Legends",
+        "image_url": ""
+    },
+    {
+        "id": 299270,
+        "name": "Tony Tony.Chopper",
+        "collector_number": "OP08-001",
+        "rarity": "Leader",
+        "expansion_id": 3828,
+        "expansion_name": "OP-08: Two Legends",
+        "image_url": ""
+    },
+    {
+        "id": 299310,
+        "name": "Pedro",
+        "collector_number": "OP08-030",
+        "rarity": "Rare",
+        "expansion_id": 3828,
+        "expansion_name": "OP-08: Two Legends",
+        "image_url": ""
+    },
+    {
+        "id": 299296,
+        "name": "Cloven Rose",
+        "collector_number": "OP08-018",
+        "rarity": "Rare",
+        "expansion_id": 3828,
+        "expansion_name": "OP-08: Two Legends",
+        "image_url": ""
+    },
+    {
+        "id": 299293,
+        "name": "Dr.Hiriluk",
+        "collector_number": "OP08-016",
+        "rarity": "Rare",
+        "expansion_id": 3828,
+        "expansion_name": "OP-08: Two Legends",
+        "image_url": ""
+    },
+    {
+        "id": 299300,
+        "name": "Carrot",
+        "collector_number": "OP08-021a",
+        "rarity": "Alternate Art",
+        "expansion_id": 3828,
+        "expansion_name": "OP-08: Two Legends",
+        "image_url": ""
+    },
+    {
+        "id": 299279,
+        "name": "Tony Tony.Chopper",
+        "collector_number": "OP08-007",
+        "rarity": "Super Rare",
+        "expansion_id": 3828,
+        "expansion_name": "OP-08: Two Legends",
+        "image_url": ""
+    },
+    {
+        "id": 295738,
+        "name": "Two Legends Booster Box",
+        "collector_number": "N/A",
+        "rarity": "Unknown",
+        "expansion_id": 3828,
+        "expansion_name": "OP-08: Two Legends",
+        "image_url": ""
+    },
+    {
+        "id": 299307,
+        "name": "Tristan",
+        "collector_number": "OP08-027",
+        "rarity": "Common",
+        "expansion_id": 3828,
+        "expansion_name": "OP-08: Two Legends",
+        "image_url": ""
+    },
+    {
+        "id": 299292,
+        "name": "Dr.Kureha",
+        "collector_number": "OP08-015a",
+        "rarity": "Alternate Art",
+        "expansion_id": 3828,
+        "expansion_name": "OP-08: Two Legends",
+        "image_url": ""
+    },
+    {
+        "id": 299311,
+        "name": "Pedro",
+        "collector_number": "OP08-030a",
+        "rarity": "Alternate Art",
+        "expansion_id": 3828,
+        "expansion_name": "OP-08: Two Legends",
+        "image_url": ""
+    },
+    {
+        "id": 299273,
+        "name": "Marco",
+        "collector_number": "OP08-002a",
+        "rarity": "Alternate Art",
+        "expansion_id": 3828,
+        "expansion_name": "OP-08: Two Legends",
+        "image_url": ""
+    },
+    {
+        "id": 299302,
+        "name": "Carrot",
+        "collector_number": "OP08-023",
+        "rarity": "Super Rare",
+        "expansion_id": 3828,
+        "expansion_name": "OP-08: Two Legends",
+        "image_url": ""
+    },
+    {
+        "id": 295737,
+        "name": "Two Legends Booster Box",
+        "collector_number": "N/A",
+        "rarity": "Unknown",
+        "expansion_id": 3828,
+        "expansion_name": "OP-08: Two Legends",
+        "image_url": ""
+    },
+    {
+        "id": 299269,
+        "name": "Monkey.D.Luffy",
+        "collector_number": "OP07-109",
+        "rarity": "Special",
+        "expansion_id": 3828,
+        "expansion_name": "OP-08: Two Legends",
+        "image_url": ""
+    },
+    {
+        "id": 296488,
+        "name": "Two Legends Booster Box Case",
+        "collector_number": "N/A",
+        "rarity": "Unknown",
+        "expansion_id": 3828,
+        "expansion_name": "OP-08: Two Legends",
+        "image_url": ""
+    },
+    {
+        "id": 299266,
+        "name": "Charlotte Pudding",
+        "collector_number": "OP03-112",
+        "rarity": "Special",
+        "expansion_id": 3828,
+        "expansion_name": "OP-08: Two Legends",
+        "image_url": ""
+    },
+    {
+        "id": 299303,
+        "name": "Carrot",
+        "collector_number": "OP08-023a",
+        "rarity": "Alternate Art",
+        "expansion_id": 3828,
+        "expansion_name": "OP-08: Two Legends",
+        "image_url": ""
+    },
+    {
+        "id": 299280,
+        "name": "Tony Tony.Chopper",
+        "collector_number": "OP08-007a",
+        "rarity": "Alternate Art",
+        "expansion_id": 3828,
+        "expansion_name": "OP-08: Two Legends",
+        "image_url": ""
+    },
+    {
+        "id": 299265,
+        "name": "Portgas.D.Ace",
+        "collector_number": "OP02-013",
+        "rarity": "Special",
+        "expansion_id": 3828,
+        "expansion_name": "OP-08: Two Legends",
+        "image_url": ""
+    },
+    {
+        "id": 299271,
+        "name": "Tony Tony.Chopper",
+        "collector_number": "OP08-001a",
+        "rarity": "Alternate Art",
+        "expansion_id": 3828,
+        "expansion_name": "OP-08: Two Legends",
+        "image_url": ""
+    },
+    {
+        "id": 295739,
+        "name": "Two Legends Booster",
+        "collector_number": "N/A",
+        "rarity": "Unknown",
+        "expansion_id": 3828,
+        "expansion_name": "OP-08: Two Legends",
+        "image_url": ""
+    },
+    {
+        "id": 299356,
+        "name": "Charlotte Pudding",
+        "collector_number": "OP08-067",
+        "rarity": "Rare",
+        "expansion_id": 3828,
+        "expansion_name": "OP-08: Two Legends",
+        "image_url": ""
+    },
+    {
+        "id": 299324,
+        "name": "Zou",
+        "collector_number": "OP08-039",
+        "rarity": "Rare",
+        "expansion_id": 3828,
+        "expansion_name": "OP-08: Two Legends",
+        "image_url": ""
+    },
+    {
+        "id": 299352,
+        "name": "Charlotte Katakuri",
+        "collector_number": "OP08-063",
+        "rarity": "Rare",
+        "expansion_id": 3828,
+        "expansion_name": "OP-08: Two Legends",
+        "image_url": ""
+    },
+    {
+        "id": 299369,
+        "name": "Conquest of the Sea",
+        "collector_number": "OP08-077",
+        "rarity": "Rare",
+        "expansion_id": 3828,
+        "expansion_name": "OP-08: Two Legends",
+        "image_url": ""
+    },
+    {
+        "id": 299365,
+        "name": "Black Maria",
+        "collector_number": "OP08-074",
+        "rarity": "Super Rare",
+        "expansion_id": 3828,
+        "expansion_name": "OP-08: Two Legends",
+        "image_url": ""
+    },
+    {
+        "id": 299321,
+        "name": "We Would Never Sell a Comrade to an Enemy!!!",
+        "collector_number": "OP08-038",
+        "rarity": "Common",
+        "expansion_id": 3828,
+        "expansion_name": "OP-08: Two Legends",
+        "image_url": ""
+    },
+    {
+        "id": 299320,
+        "name": "Garchu",
+        "collector_number": "OP08-037",
+        "rarity": "Uncommon",
+        "expansion_id": 3828,
+        "expansion_name": "OP-08: Two Legends",
+        "image_url": ""
+    },
+    {
+        "id": 299335,
+        "name": "Speed Jil",
+        "collector_number": "OP08-049",
+        "rarity": "Common",
+        "expansion_id": 3828,
+        "expansion_name": "OP-08: Two Legends",
+        "image_url": ""
+    },
+    {
+        "id": 299334,
+        "name": "Sweetpea",
+        "collector_number": "OP08-048",
+        "rarity": "Common",
+        "expansion_id": 3828,
+        "expansion_name": "OP-08: Two Legends",
+        "image_url": ""
+    },
+    {
+        "id": 299350,
+        "name": "Charlotte Oven",
+        "collector_number": "OP08-061",
+        "rarity": "Uncommon",
+        "expansion_id": 3828,
+        "expansion_name": "OP-08: Two Legends",
+        "image_url": ""
+    },
+    {
+        "id": 299344,
+        "name": "King",
+        "collector_number": "OP08-057",
+        "rarity": "Leader",
+        "expansion_id": 3828,
+        "expansion_name": "OP-08: Two Legends",
+        "image_url": ""
+    },
+    {
+        "id": 299363,
+        "name": "Biscuit Warrior",
+        "collector_number": "OP08-072",
+        "rarity": "Common",
+        "expansion_id": 3828,
+        "expansion_name": "OP-08: Two Legends",
+        "image_url": ""
+    },
+    {
+        "id": 299358,
+        "name": "Charlotte Perospero",
+        "collector_number": "OP08-068",
+        "rarity": "Common",
+        "expansion_id": 3828,
+        "expansion_name": "OP-08: Two Legends",
+        "image_url": ""
+    },
+    {
+        "id": 299351,
+        "name": "Charlotte Katakuri",
+        "collector_number": "OP08-062",
+        "rarity": "Uncommon",
+        "expansion_id": 3828,
+        "expansion_name": "OP-08: Two Legends",
+        "image_url": ""
+    },
+    {
+        "id": 299331,
+        "name": "Thatch",
+        "collector_number": "OP08-045",
+        "rarity": "Uncommon",
+        "expansion_id": 3828,
+        "expansion_name": "OP-08: Two Legends",
+        "image_url": ""
+    },
+    {
+        "id": 299348,
+        "name": "Alber",
+        "collector_number": "OP08-059",
+        "rarity": "Uncommon",
+        "expansion_id": 3828,
+        "expansion_name": "OP-08: Two Legends",
+        "image_url": ""
+    },
+    {
+        "id": 299364,
+        "name": "Viscount Hiyoko",
+        "collector_number": "OP08-073",
+        "rarity": "Common",
+        "expansion_id": 3828,
+        "expansion_name": "OP-08: Two Legends",
+        "image_url": ""
+    },
+    {
+        "id": 299340,
+        "name": "Thank You...for Loving Me!!",
+        "collector_number": "OP08-053",
+        "rarity": "Rare",
+        "expansion_id": 3828,
+        "expansion_name": "OP-08: Two Legends",
+        "image_url": ""
+    },
+    {
+        "id": 299330,
+        "name": "Kingdew",
+        "collector_number": "OP08-044",
+        "rarity": "Uncommon",
+        "expansion_id": 3828,
+        "expansion_name": "OP-08: Two Legends",
+        "image_url": ""
+    },
+    {
+        "id": 299325,
+        "name": "Atmos",
+        "collector_number": "OP08-040",
+        "rarity": "Uncommon",
+        "expansion_id": 3828,
+        "expansion_name": "OP-08: Two Legends",
+        "image_url": ""
+    },
+    {
+        "id": 299368,
+        "name": "It's to Die For...",
+        "collector_number": "OP08-076",
+        "rarity": "Uncommon",
+        "expansion_id": 3828,
+        "expansion_name": "OP-08: Two Legends",
+        "image_url": ""
+    },
+    {
+        "id": 299355,
+        "name": "Charlotte Brulee",
+        "collector_number": "OP08-066",
+        "rarity": "Uncommon",
+        "expansion_id": 3828,
+        "expansion_name": "OP-08: Two Legends",
+        "image_url": ""
+    },
+    {
+        "id": 299342,
+        "name": "Phoenix Brand",
+        "collector_number": "OP08-055",
+        "rarity": "Uncommon",
+        "expansion_id": 3828,
+        "expansion_name": "OP-08: Two Legends",
+        "image_url": ""
+    },
+    {
+        "id": 299332,
+        "name": "Shakuyaku",
+        "collector_number": "OP08-046",
+        "rarity": "Rare",
+        "expansion_id": 3828,
+        "expansion_name": "OP-08: Two Legends",
+        "image_url": ""
+    },
+    {
+        "id": 299370,
+        "name": "Ulti",
+        "collector_number": "OP08-078",
+        "rarity": "Common",
+        "expansion_id": 3828,
+        "expansion_name": "OP-08: Two Legends",
+        "image_url": ""
+    },
+    {
+        "id": 299327,
+        "name": "Edward Weevil",
+        "collector_number": "OP08-042",
+        "rarity": "Uncommon",
+        "expansion_id": 3828,
+        "expansion_name": "OP-08: Two Legends",
+        "image_url": ""
+    },
+    {
+        "id": 299353,
+        "name": "Charlotte Cracker",
+        "collector_number": "OP08-064",
+        "rarity": "Common",
+        "expansion_id": 3828,
+        "expansion_name": "OP-08: Two Legends",
+        "image_url": ""
+    },
+    {
+        "id": 299338,
+        "name": "Portgas.D.Ace",
+        "collector_number": "OP08-052",
+        "rarity": "Rare",
+        "expansion_id": 3828,
+        "expansion_name": "OP-08: Two Legends",
+        "image_url": ""
+    },
+    {
+        "id": 299326,
+        "name": "Aphelandra",
+        "collector_number": "OP08-041",
+        "rarity": "Common",
+        "expansion_id": 3828,
+        "expansion_name": "OP-08: Two Legends",
+        "image_url": ""
+    },
+    {
+        "id": 299349,
+        "name": "King",
+        "collector_number": "OP08-060",
+        "rarity": "Rare",
+        "expansion_id": 3828,
+        "expansion_name": "OP-08: Two Legends",
+        "image_url": ""
+    },
+    {
+        "id": 299337,
+        "name": "Buckin",
+        "collector_number": "OP08-051",
+        "rarity": "Common",
+        "expansion_id": 3828,
+        "expansion_name": "OP-08: Two Legends",
+        "image_url": ""
+    },
+    {
+        "id": 299343,
+        "name": "Moby Dick",
+        "collector_number": "OP08-056",
+        "rarity": "Common",
+        "expansion_id": 3828,
+        "expansion_name": "OP-08: Two Legends",
+        "image_url": ""
+    },
+    {
+        "id": 299341,
+        "name": "You Can't Take Our King This Early in the Game.",
+        "collector_number": "OP08-054",
+        "rarity": "Common",
+        "expansion_id": 3828,
+        "expansion_name": "OP-08: Two Legends",
+        "image_url": ""
+    },
+    {
+        "id": 299362,
+        "name": "Count Niwatori",
+        "collector_number": "OP08-071",
+        "rarity": "Common",
+        "expansion_id": 3828,
+        "expansion_name": "OP-08: Two Legends",
+        "image_url": ""
+    },
+    {
+        "id": 299361,
+        "name": "Baron Tamago",
+        "collector_number": "OP08-070",
+        "rarity": "Common",
+        "expansion_id": 3828,
+        "expansion_name": "OP-08: Two Legends",
+        "image_url": ""
+    },
+    {
+        "id": 299354,
+        "name": "Charlotte Smoothie",
+        "collector_number": "OP08-065",
+        "rarity": "Common",
+        "expansion_id": 3828,
+        "expansion_name": "OP-08: Two Legends",
+        "image_url": ""
+    },
+    {
+        "id": 299345,
+        "name": "King",
+        "collector_number": "OP08-057a",
+        "rarity": "Alternate Art",
+        "expansion_id": 3828,
+        "expansion_name": "OP-08: Two Legends",
+        "image_url": ""
+    },
+    {
+        "id": 299346,
+        "name": "Charlotte Pudding",
+        "collector_number": "OP08-058",
+        "rarity": "Leader",
+        "expansion_id": 3828,
+        "expansion_name": "OP-08: Two Legends",
+        "image_url": ""
+    },
+    {
+        "id": 299339,
+        "name": "Portgas.D.Ace",
+        "collector_number": "OP08-052a",
+        "rarity": "Alternate Art",
+        "expansion_id": 3828,
+        "expansion_name": "OP-08: Two Legends",
+        "image_url": ""
+    },
+    {
+        "id": 299328,
+        "name": "Edward.Newgate",
+        "collector_number": "OP08-043",
+        "rarity": "Super Rare",
+        "expansion_id": 3828,
+        "expansion_name": "OP-08: Two Legends",
+        "image_url": ""
+    },
+    {
+        "id": 299336,
+        "name": "Namule",
+        "collector_number": "OP08-050",
+        "rarity": "Common",
+        "expansion_id": 3828,
+        "expansion_name": "OP-08: Two Legends",
+        "image_url": ""
+    },
+    {
+        "id": 299367,
+        "name": "Candy Maiden",
+        "collector_number": "OP08-075",
+        "rarity": "Common",
+        "expansion_id": 3828,
+        "expansion_name": "OP-08: Two Legends",
+        "image_url": ""
+    },
+    {
+        "id": 299371,
+        "name": "Kaido",
+        "collector_number": "OP08-079",
+        "rarity": "Super Rare",
+        "expansion_id": 3828,
+        "expansion_name": "OP-08: Two Legends",
+        "image_url": ""
+    },
+    {
+        "id": 299359,
+        "name": "Charlotte Linlin",
+        "collector_number": "OP08-069",
+        "rarity": "Super Rare",
+        "expansion_id": 3828,
+        "expansion_name": "OP-08: Two Legends",
+        "image_url": ""
+    },
+    {
+        "id": 299333,
+        "name": "Jozu",
+        "collector_number": "OP08-047",
+        "rarity": "Rare",
+        "expansion_id": 3828,
+        "expansion_name": "OP-08: Two Legends",
+        "image_url": ""
+    },
+    {
+        "id": 299357,
+        "name": "Charlotte Pudding",
+        "collector_number": "OP08-067a",
+        "rarity": "Alternate Art",
+        "expansion_id": 3828,
+        "expansion_name": "OP-08: Two Legends",
+        "image_url": ""
+    },
+    {
+        "id": 299360,
+        "name": "Charlotte Linlin",
+        "collector_number": "OP08-069a",
+        "rarity": "Alternate Art",
+        "expansion_id": 3828,
+        "expansion_name": "OP-08: Two Legends",
+        "image_url": ""
+    },
+    {
+        "id": 299366,
+        "name": "Black Maria",
+        "collector_number": "OP08-074a",
+        "rarity": "Alternate Art",
+        "expansion_id": 3828,
+        "expansion_name": "OP-08: Two Legends",
+        "image_url": ""
+    },
+    {
+        "id": 299329,
+        "name": "Edward.Newgate",
+        "collector_number": "OP08-043a",
+        "rarity": "Alternate Art",
+        "expansion_id": 3828,
+        "expansion_name": "OP-08: Two Legends",
+        "image_url": ""
+    },
+    {
+        "id": 299347,
+        "name": "Charlotte Pudding",
+        "collector_number": "OP08-058a",
+        "rarity": "Alternate Art",
+        "expansion_id": 3828,
+        "expansion_name": "OP-08: Two Legends",
+        "image_url": ""
+    },
+    {
+        "id": 299401,
+        "name": "Jewelry Bonney",
+        "collector_number": "OP08-105",
+        "rarity": "Super Rare",
+        "expansion_id": 3828,
+        "expansion_name": "OP-08: Two Legends",
+        "image_url": ""
+    },
+    {
+        "id": 299389,
+        "name": "Imperial Flame",
+        "collector_number": "OP08-094",
+        "rarity": "Rare",
+        "expansion_id": 3828,
+        "expansion_name": "OP-08: Two Legends",
+        "image_url": ""
+    },
+    {
+        "id": 299395,
+        "name": "Kalgara",
+        "collector_number": "OP08-099",
+        "rarity": "Common",
+        "expansion_id": 3828,
+        "expansion_name": "OP-08: Two Legends",
+        "image_url": ""
+    },
+    {
+        "id": 299396,
+        "name": "South Bird",
+        "collector_number": "OP08-100",
+        "rarity": "Uncommon",
+        "expansion_id": 3828,
+        "expansion_name": "OP-08: Two Legends",
+        "image_url": ""
+    },
+    {
+        "id": 299413,
+        "name": "S-Bear",
+        "collector_number": "OP08-113",
+        "rarity": "Common",
+        "expansion_id": 3828,
+        "expansion_name": "OP-08: Two Legends",
+        "image_url": ""
+    },
+    {
+        "id": 299405,
+        "name": "Nitro",
+        "collector_number": "OP08-107",
+        "rarity": "Common",
+        "expansion_id": 3828,
+        "expansion_name": "OP-08: Two Legends",
+        "image_url": ""
+    },
+    {
+        "id": 299385,
+        "name": "Hamlet",
+        "collector_number": "OP08-090",
+        "rarity": "Common",
+        "expansion_id": 3828,
+        "expansion_name": "OP-08: Two Legends",
+        "image_url": ""
+    },
+    {
+        "id": 299382,
+        "name": "Scratchmen Apoo",
+        "collector_number": "OP08-087",
+        "rarity": "Uncommon",
+        "expansion_id": 3828,
+        "expansion_name": "OP-08: Two Legends",
+        "image_url": ""
+    },
+    {
+        "id": 299391,
+        "name": "People's Dreams Don't Ever End!!",
+        "collector_number": "OP08-096",
+        "rarity": "Common",
+        "expansion_id": 3828,
+        "expansion_name": "OP-08: Two Legends",
+        "image_url": ""
+    },
+    {
+        "id": 299393,
+        "name": "Kalgara",
+        "collector_number": "OP08-098",
+        "rarity": "Leader",
+        "expansion_id": 3828,
+        "expansion_name": "OP-08: Two Legends",
+        "image_url": ""
+    },
+    {
+        "id": 299378,
+        "name": "Jack",
+        "collector_number": "OP08-084",
+        "rarity": "Super Rare",
+        "expansion_id": 3828,
+        "expansion_name": "OP-08: Two Legends",
+        "image_url": ""
+    },
+    {
+        "id": 299390,
+        "name": "Iron Body Fang Flash",
+        "collector_number": "OP08-095",
+        "rarity": "Uncommon",
+        "expansion_id": 3828,
+        "expansion_name": "OP-08: Two Legends",
+        "image_url": ""
+    },
+    {
+        "id": 299398,
+        "name": "Charlotte Opera",
+        "collector_number": "OP08-102",
+        "rarity": "Uncommon",
+        "expansion_id": 3828,
+        "expansion_name": "OP-08: Two Legends",
+        "image_url": ""
+    },
+    {
+        "id": 299421,
+        "name": "Kaido & Linlin",
+        "collector_number": "OP08-119",
+        "rarity": "Secret Rare",
+        "expansion_id": 3828,
+        "expansion_name": "OP-08: Two Legends",
+        "image_url": ""
+    },
+    {
+        "id": 299381,
+        "name": "Ginrummy",
+        "collector_number": "OP08-086",
+        "rarity": "Common",
+        "expansion_id": 3828,
+        "expansion_name": "OP-08: Two Legends",
+        "image_url": ""
+    },
+    {
+        "id": 299397,
+        "name": "Charlotte Angel",
+        "collector_number": "OP08-101",
+        "rarity": "Common",
+        "expansion_id": 3828,
+        "expansion_name": "OP-08: Two Legends",
+        "image_url": ""
+    },
+    {
+        "id": 299373,
+        "name": "Queen",
+        "collector_number": "OP08-080",
+        "rarity": "Rare",
+        "expansion_id": 3828,
+        "expansion_name": "OP-08: Two Legends",
+        "image_url": ""
+    },
+    {
+        "id": 299400,
+        "name": "Charlotte Poire",
+        "collector_number": "OP08-104",
+        "rarity": "Common",
+        "expansion_id": 3828,
+        "expansion_name": "OP-08: Two Legends",
+        "image_url": ""
+    },
+    {
+        "id": 299375,
+        "name": "Guernica",
+        "collector_number": "OP08-081",
+        "rarity": "Common",
+        "expansion_id": 3828,
+        "expansion_name": "OP-08: Two Legends",
+        "image_url": ""
+    },
+    {
+        "id": 299407,
+        "name": "Mont Blanc Noland",
+        "collector_number": "OP08-109",
+        "rarity": "Rare",
+        "expansion_id": 3828,
+        "expansion_name": "OP-08: Two Legends",
+        "image_url": ""
+    },
+    {
+        "id": 299384,
+        "name": "Basil Hawkins",
+        "collector_number": "OP08-089",
+        "rarity": "Common",
+        "expansion_id": 3828,
+        "expansion_name": "OP-08: Two Legends",
+        "image_url": ""
+    },
+    {
+        "id": 299380,
+        "name": "Jinbe",
+        "collector_number": "OP08-085",
+        "rarity": "Uncommon",
+        "expansion_id": 3828,
+        "expansion_name": "OP-08: Two Legends",
+        "image_url": ""
+    },
+    {
+        "id": 299399,
+        "name": "Charlotte Custard",
+        "collector_number": "OP08-103",
+        "rarity": "Uncommon",
+        "expansion_id": 3828,
+        "expansion_name": "OP-08: Two Legends",
+        "image_url": ""
+    },
+    {
+        "id": 299414,
+        "name": "S-Hawk",
+        "collector_number": "OP08-114",
+        "rarity": "Rare",
+        "expansion_id": 3828,
+        "expansion_name": "OP-08: Two Legends",
+        "image_url": ""
+    },
+    {
+        "id": 299392,
+        "name": "Heliceratops",
+        "collector_number": "OP08-097",
+        "rarity": "Common",
+        "expansion_id": 3828,
+        "expansion_name": "OP-08: Two Legends",
+        "image_url": ""
+    },
+    {
+        "id": 299377,
+        "name": "Sheepshead",
+        "collector_number": "OP08-083",
+        "rarity": "Uncommon",
+        "expansion_id": 3828,
+        "expansion_name": "OP-08: Two Legends",
+        "image_url": ""
+    },
+    {
+        "id": 299383,
+        "name": "Duval",
+        "collector_number": "OP08-088",
+        "rarity": "Uncommon",
+        "expansion_id": 3828,
+        "expansion_name": "OP-08: Two Legends",
+        "image_url": ""
+    },
+    {
+        "id": 299387,
+        "name": "Page One",
+        "collector_number": "OP08-092",
+        "rarity": "Common",
+        "expansion_id": 3828,
+        "expansion_name": "OP-08: Two Legends",
+        "image_url": ""
+    },
+    {
+        "id": 299386,
+        "name": "Who's.Who",
+        "collector_number": "OP08-091",
+        "rarity": "Rare",
+        "expansion_id": 3828,
+        "expansion_name": "OP-08: Two Legends",
+        "image_url": ""
+    },
+    {
+        "id": 299416,
+        "name": "Burn Bazooka",
+        "collector_number": "OP08-116",
+        "rarity": "Common",
+        "expansion_id": 3828,
+        "expansion_name": "OP-08: Two Legends",
+        "image_url": ""
+    },
+    {
+        "id": 299417,
+        "name": "Burn Blade",
+        "collector_number": "OP08-117",
+        "rarity": "Uncommon",
+        "expansion_id": 3828,
+        "expansion_name": "OP-08: Two Legends",
+        "image_url": ""
+    },
+    {
+        "id": 299408,
+        "name": "Wyper",
+        "collector_number": "OP08-110",
+        "rarity": "Rare",
+        "expansion_id": 3828,
+        "expansion_name": "OP-08: Two Legends",
+        "image_url": ""
+    },
+    {
+        "id": 299376,
+        "name": "Sasaki",
+        "collector_number": "OP08-082",
+        "rarity": "Rare",
+        "expansion_id": 3828,
+        "expansion_name": "OP-08: Two Legends",
+        "image_url": ""
+    },
+    {
+        "id": 299410,
+        "name": "S-Shark",
+        "collector_number": "OP08-111",
+        "rarity": "Uncommon",
+        "expansion_id": 3828,
+        "expansion_name": "OP-08: Two Legends",
+        "image_url": ""
+    },
+    {
+        "id": 299406,
+        "name": "Mont Blanc Cricket",
+        "collector_number": "OP08-108",
+        "rarity": "Common",
+        "expansion_id": 3828,
+        "expansion_name": "OP-08: Two Legends",
+        "image_url": ""
+    },
+    {
+        "id": 299411,
+        "name": "S-Snake",
+        "collector_number": "OP08-112",
+        "rarity": "Super Rare",
+        "expansion_id": 3828,
+        "expansion_name": "OP-08: Two Legends",
+        "image_url": ""
+    },
+    {
+        "id": 299415,
+        "name": "The Earth Will Not Lose!",
+        "collector_number": "OP08-115",
+        "rarity": "Rare",
+        "expansion_id": 3828,
+        "expansion_name": "OP-08: Two Legends",
+        "image_url": ""
+    },
+    {
+        "id": 299374,
+        "name": "Queen",
+        "collector_number": "OP08-080a",
+        "rarity": "Alternate Art",
+        "expansion_id": 3828,
+        "expansion_name": "OP-08: Two Legends",
+        "image_url": ""
+    },
+    {
+        "id": 299409,
+        "name": "Wyper",
+        "collector_number": "OP08-110a",
+        "rarity": "Alternate Art",
+        "expansion_id": 3828,
+        "expansion_name": "OP-08: Two Legends",
+        "image_url": ""
+    },
+    {
+        "id": 299412,
+        "name": "S-Snake",
+        "collector_number": "OP08-112a",
+        "rarity": "Alternate Art",
+        "expansion_id": 3828,
+        "expansion_name": "OP-08: Two Legends",
+        "image_url": ""
+    },
+    {
+        "id": 299388,
+        "name": "X.Drake",
+        "collector_number": "OP08-093",
+        "rarity": "Common",
+        "expansion_id": 3828,
+        "expansion_name": "OP-08: Two Legends",
+        "image_url": ""
+    },
+    {
+        "id": 299372,
+        "name": "Kaido",
+        "collector_number": "OP08-079a",
+        "rarity": "Alternate Art",
+        "expansion_id": 3828,
+        "expansion_name": "OP-08: Two Legends",
+        "image_url": ""
+    },
+    {
+        "id": 299379,
+        "name": "Jack",
+        "collector_number": "OP08-084a",
+        "rarity": "Alternate Art",
+        "expansion_id": 3828,
+        "expansion_name": "OP-08: Two Legends",
+        "image_url": ""
+    },
+    {
+        "id": 299418,
+        "name": "Silvers Rayleigh",
+        "collector_number": "OP08-118",
+        "rarity": "Secret Rare",
+        "expansion_id": 3828,
+        "expansion_name": "OP-08: Two Legends",
+        "image_url": ""
+    },
+    {
+        "id": 299402,
+        "name": "Jewelry Bonney",
+        "collector_number": "OP08-105a",
+        "rarity": "Alternate Art",
+        "expansion_id": 3828,
+        "expansion_name": "OP-08: Two Legends",
+        "image_url": ""
+    },
+    {
+        "id": 299404,
+        "name": "Nami",
+        "collector_number": "OP08-106a",
+        "rarity": "Alternate Art",
+        "expansion_id": 3828,
+        "expansion_name": "OP-08: Two Legends",
+        "image_url": ""
+    },
+    {
+        "id": 299419,
+        "name": "Silvers Rayleigh",
+        "collector_number": "OP08-118a",
+        "rarity": "Alternate Art",
+        "expansion_id": 3828,
+        "expansion_name": "OP-08: Two Legends",
+        "image_url": ""
+    },
+    {
+        "id": 299420,
+        "name": "Silvers Rayleigh",
+        "collector_number": "OP08-118m",
+        "rarity": "Alternate Art",
+        "expansion_id": 3828,
+        "expansion_name": "OP-08: Two Legends",
+        "image_url": ""
+    },
+    {
+        "id": 299403,
+        "name": "Nami",
+        "collector_number": "OP08-106",
+        "rarity": "Super Rare",
+        "expansion_id": 3828,
+        "expansion_name": "OP-08: Two Legends",
+        "image_url": ""
+    },
+    {
+        "id": 299394,
+        "name": "Kalgara",
+        "collector_number": "OP08-098a",
+        "rarity": "Alternate Art",
+        "expansion_id": 3828,
+        "expansion_name": "OP-08: Two Legends",
+        "image_url": ""
+    },
+    {
+        "id": 299426,
+        "name": "Tashigi",
+        "collector_number": "ST06-006",
+        "rarity": "Special",
+        "expansion_id": 3828,
+        "expansion_name": "OP-08: Two Legends",
+        "image_url": ""
+    },
+    {
+        "id": 299422,
+        "name": "Kaido & Linlin",
+        "collector_number": "OP08-119a",
+        "rarity": "Alternate Art",
+        "expansion_id": 3828,
+        "expansion_name": "OP-08: Two Legends",
+        "image_url": ""
+    },
+    {
+        "id": 299850,
+        "name": "Double Pack Set Volume 5",
+        "collector_number": "N/A",
+        "rarity": "Unknown",
+        "expansion_id": 3828,
+        "expansion_name": "OP-08: Two Legends",
+        "image_url": ""
+    },
+    {
+        "id": 299425,
+        "name": "Queen",
+        "collector_number": "ST04-005",
+        "rarity": "Special",
+        "expansion_id": 3828,
+        "expansion_name": "OP-08: Two Legends",
+        "image_url": ""
+    },
+    {
+        "id": 299424,
+        "name": "Gecko Moria",
+        "collector_number": "ST03-004",
+        "rarity": "Special",
+        "expansion_id": 3828,
+        "expansion_name": "OP-08: Two Legends",
+        "image_url": ""
+    },
+    {
+        "id": 304782,
+        "name": "OP-08: Two Legends Pre-Release Pack",
+        "collector_number": "N/A",
+        "rarity": "Unknown",
+        "expansion_id": 3828,
+        "expansion_name": "OP-08: Two Legends",
+        "image_url": ""
+    },
+    {
+        "id": 301341,
+        "name": "DON!!",
+        "collector_number": "OP-08",
+        "rarity": "DON!!",
+        "expansion_id": 3828,
+        "expansion_name": "OP-08: Two Legends",
+        "image_url": ""
+    },
+    {
+        "id": 304615,
+        "name": "Two Legends Booster",
+        "collector_number": "N/A",
+        "rarity": "Unknown",
+        "expansion_id": 3828,
+        "expansion_name": "OP-08: Two Legends",
+        "image_url": ""
+    },
+    {
+        "id": 299853,
+        "name": "DON!!",
+        "collector_number": "DP-05",
+        "rarity": "DON!!",
+        "expansion_id": 3828,
+        "expansion_name": "OP-08: Two Legends",
+        "image_url": ""
+    },
+    {
+        "id": 299423,
+        "name": "Jewelry Bonney",
+        "collector_number": "ST02-007",
+        "rarity": "Special",
+        "expansion_id": 3828,
+        "expansion_name": "OP-08: Two Legends",
+        "image_url": ""
+    },
+    {
+        "id": 299852,
+        "name": "DON!!",
+        "collector_number": "DP-05",
+        "rarity": "DON!!",
+        "expansion_id": 3828,
+        "expansion_name": "OP-08: Two Legends",
+        "image_url": ""
+    }
+]

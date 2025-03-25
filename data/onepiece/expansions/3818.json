@@ -1,0 +1,38 @@
+[
+    {
+        "id": 294208,
+        "name": "Monkey.D.Luffy",
+        "collector_number": "P-041p",
+        "rarity": "Promo",
+        "expansion_id": 3818,
+        "expansion_name": "Asian Promos",
+        "image_url": ""
+    },
+    {
+        "id": 256642,
+        "name": "Portgas.D.Ace",
+        "collector_number": "P-026m",
+        "rarity": "Promo",
+        "expansion_id": 3818,
+        "expansion_name": "Asian Promos",
+        "image_url": ""
+    },
+    {
+        "id": 295314,
+        "name": "Monkey.D.Luffy",
+        "collector_number": "P-001",
+        "rarity": "Promo",
+        "expansion_id": 3818,
+        "expansion_name": "Asian Promos",
+        "image_url": ""
+    },
+    {
+        "id": 295316,
+        "name": "Trafalgar Law",
+        "collector_number": "P-017",
+        "rarity": "Promo",
+        "expansion_id": 3818,
+        "expansion_name": "Asian Promos",
+        "image_url": ""
+    }
+]

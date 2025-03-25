@@ -1,0 +1,287 @@
+[
+  {
+    "id": 3323,
+    "name": "Unnumbered Promos",
+    "code": "up"
+  },
+  {
+    "id": 3324,
+    "name": "Promos",
+    "code": "promo"
+  },
+  {
+    "id": 3325,
+    "name": "Judge Promos",
+    "code": "jp"
+  },
+  {
+    "id": 3327,
+    "name": "Premium Bandai Products",
+    "code": "bandai"
+  },
+  {
+    "id": 3328,
+    "name": "Starter Deck: Animal Kingdom Pirates",
+    "code": "st-04"
+  },
+  {
+    "id": 3329,
+    "name": "ST-03: Starter Deck: The Seven Warlords of the Sea",
+    "code": "st-03"
+  },
+  {
+    "id": 3330,
+    "name": "ST-02: Starter Deck: Worst Generation",
+    "code": "st-02"
+  },
+  {
+    "id": 3331,
+    "name": "ST-01: Starter Deck: Straw Hat Crew",
+    "code": "st-01"
+  },
+  {
+    "id": 3332,
+    "name": "OP-01: Romance Dawn",
+    "code": "op-01"
+  },
+  {
+    "id": 3333,
+    "name": "Store Tournaments Promos",
+    "code": "stp"
+  },
+  {
+    "id": 3334,
+    "name": "ST-05: Starter Deck ONE PIECE FILM edition",
+    "code": "st-05"
+  },
+  {
+    "id": 3335,
+    "name": "ST-06: Starter Deck Absolute Justice",
+    "code": "st-06"
+  },
+  {
+    "id": 3336,
+    "name": "OP-02: Paramount War",
+    "code": "op-02"
+  },
+  {
+    "id": 3337,
+    "name": "OP-02P: Paramount War Promos",
+    "code": "op-02p"
+  },
+  {
+    "id": 3343,
+    "name": "One Piece Products",
+    "code": "oppr"
+  },
+  {
+    "id": 3345,
+    "name": "Pre-Errata Cards",
+    "code": "p-errata"
+  },
+  {
+    "id": 3379,
+    "name": "ST-09: Starter Deck Yamato",
+    "code": "st-09"
+  },
+  {
+    "id": 3380,
+    "name": "ST-08: Starter Deck Monkey.D.Luffy",
+    "code": "st-08"
+  },
+  {
+    "id": 3381,
+    "name": "OP-03: Pillars of Strength",
+    "code": "op-03"
+  },
+  {
+    "id": 3382,
+    "name": "ST-07: Starter Deck Big Mom Pirates",
+    "code": "st-07"
+  },
+  {
+    "id": 3383,
+    "name": "OP-04: Kingdoms of Intrigue",
+    "code": "op-04"
+  },
+  {
+    "id": 3385,
+    "name": "ST-10: Ultra Deck -The Three Captains",
+    "code": "st-10"
+  },
+  {
+    "id": 3435,
+    "name": "Reprints - Revision Pack",
+    "code": "rpack"
+  },
+  {
+    "id": 3461,
+    "name": "OP-05: Awakening of the New Era",
+    "code": "op-05"
+  },
+  {
+    "id": 3462,
+    "name": "OP-03P: Pillars of Strength Promos",
+    "code": "op-03p"
+  },
+  {
+    "id": 3487,
+    "name": "OP-04P: Kingdoms of Intrigue Promos",
+    "code": "op-04p"
+  },
+  {
+    "id": 3521,
+    "name": "OP-06: Wings of the Captain",
+    "code": "op-06"
+  },
+  {
+    "id": 3584,
+    "name": "ST-13: Ultra Deck - The Three Brothers",
+    "code": "st-13"
+  },
+  {
+    "id": 3586,
+    "name": "ST-12: Starter Deck Zoro & Sanji",
+    "code": "st-12"
+  },
+  {
+    "id": 3587,
+    "name": "OP-05 1A: 1st Anniversary Tournament Cards",
+    "code": "op-05p1st"
+  },
+  {
+    "id": 3604,
+    "name": "ST-11: Starter Deck Uta",
+    "code": "st-11"
+  },
+  {
+    "id": 3664,
+    "name": "OP-06P: Wings of the Captain Promos",
+    "code": "op-06p"
+  },
+  {
+    "id": 3728,
+    "name": "EB-01: Memorial Collection",
+    "code": "eb-01"
+  },
+  {
+    "id": 3771,
+    "name": "OP-07: 500 Years into the Future",
+    "code": "op-07"
+  },
+  {
+    "id": 3806,
+    "name": "ST-14: Starter Deck: 3D2Y",
+    "code": "st-14"
+  },
+  {
+    "id": 3807,
+    "name": "OP-07P: 500 Years into the Future Promos",
+    "code": "op-07p"
+  },
+  {
+    "id": 3808,
+    "name": "Winner Pack",
+    "code": "op-wp"
+  },
+  {
+    "id": 3809,
+    "name": "Tournament Pack",
+    "code": "op-tp"
+  },
+  {
+    "id": 3810,
+    "name": "Premium Card Collection",
+    "code": "op-pcc"
+  },
+  {
+    "id": 3818,
+    "name": "Asian Promos",
+    "code": "jp-promo"
+  },
+  {
+    "id": 3828,
+    "name": "OP-08: Two Legends",
+    "code": "op08"
+  },
+  {
+    "id": 3847,
+    "name": "PRB-01: The Best - Premium Booster",
+    "code": "prb01"
+  },
+  {
+    "id": 3848,
+    "name": "OP-09: Emperors in the New World",
+    "code": "op-09"
+  },
+  {
+    "id": 3849,
+    "name": "ST-15: Starter Deck Edward.Newgate",
+    "code": "st15"
+  },
+  {
+    "id": 3850,
+    "name": "ST-16: Starter Deck Green Uta",
+    "code": "st-16"
+  },
+  {
+    "id": 3851,
+    "name": "ST-17: Starter Deck Donquixote Doflamingo",
+    "code": "st-17"
+  },
+  {
+    "id": 3852,
+    "name": "ST-18: Starter Deck: Purple Monkey.D.Luffy",
+    "code": "st-18"
+  },
+  {
+    "id": 3853,
+    "name": "ST-19: Starter Deck Smoker",
+    "code": "st-19"
+  },
+  {
+    "id": 3854,
+    "name": "ST-20: Starter Deck Charlotte Katakuri",
+    "code": "st-20"
+  },
+  {
+    "id": 3885,
+    "name": "OP-08P: Two Legends Promos",
+    "code": "op-08p"
+  },
+  {
+    "id": 3945,
+    "name": "Championships Promo",
+    "code": "op-chp"
+  },
+  {
+    "id": 3996,
+    "name": "OP-10: Royal Blood",
+    "code": "op-10"
+  },
+  {
+    "id": 4002,
+    "name": "ST-21 : Starter Deck EX Gear 5",
+    "code": "st-21"
+  },
+  {
+    "id": 4123,
+    "name": "EB-02: Anime 25th Collection Booster Box",
+    "code": "eb-02"
+  },
+  {
+    "id": 4138,
+    "name": "OP-11: A Fist of Divine Speed",
+    "code": "op-11"
+  },
+  {
+    "id": 4140,
+    "name": "OP-10P: Royal Blood Promos",
+    "code": "op-10p"
+  },
+  {
+    "id": 4149,
+    "name": "French Promos",
+    "code": "fr-op"
+  }
+]

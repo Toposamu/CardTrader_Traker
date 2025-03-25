@@ -1,0 +1,389 @@
+[
+    {
+        "id": 250506,
+        "name": "Nico Robin",
+        "collector_number": "OP01-017",
+        "rarity": "Promo",
+        "expansion_id": 3945,
+        "expansion_name": "Championships Promo",
+        "image_url": ""
+    },
+    {
+        "id": 255422,
+        "name": "Charlotte Brulee",
+        "collector_number": "ST07-007",
+        "rarity": "Promo",
+        "expansion_id": 3945,
+        "expansion_name": "Championships Promo",
+        "image_url": ""
+    },
+    {
+        "id": 280960,
+        "name": "Tashigi",
+        "collector_number": "ST06-006",
+        "rarity": "Promo",
+        "expansion_id": 3945,
+        "expansion_name": "Championships Promo",
+        "image_url": ""
+    },
+    {
+        "id": 250624,
+        "name": "Kuzan",
+        "collector_number": "OP02-096",
+        "rarity": "Promo",
+        "expansion_id": 3945,
+        "expansion_name": "Championships Promo",
+        "image_url": ""
+    },
+    {
+        "id": 294889,
+        "name": "Brook",
+        "collector_number": "ST01-011",
+        "rarity": "Promo",
+        "expansion_id": 3945,
+        "expansion_name": "Championships Promo",
+        "image_url": ""
+    },
+    {
+        "id": 245392,
+        "name": "Monkey.D.Luffy",
+        "collector_number": "",
+        "rarity": "Promo",
+        "expansion_id": 3945,
+        "expansion_name": "Championships Promo",
+        "image_url": ""
+    },
+    {
+        "id": 255424,
+        "name": "Donquixote Rosinante",
+        "collector_number": "OP02-108",
+        "rarity": "Promo",
+        "expansion_id": 3945,
+        "expansion_name": "Championships Promo",
+        "image_url": ""
+    },
+    {
+        "id": 282243,
+        "name": "Eustass “Captain” Kid",
+        "collector_number": "ST10-013",
+        "rarity": "Promo",
+        "expansion_id": 3945,
+        "expansion_name": "Championships Promo",
+        "image_url": ""
+    },
+    {
+        "id": 280953,
+        "name": "Shiki",
+        "collector_number": "ST05-008",
+        "rarity": "Promo",
+        "expansion_id": 3945,
+        "expansion_name": "Championships Promo",
+        "image_url": ""
+    },
+    {
+        "id": 256622,
+        "name": "Eustass\"Captain\"Kid",
+        "collector_number": "P-003w",
+        "rarity": "Promo",
+        "expansion_id": 3945,
+        "expansion_name": "Championships Promo",
+        "image_url": ""
+    },
+    {
+        "id": 315207,
+        "name": "Monkey.D.Luffy",
+        "collector_number": "ST13-003",
+        "rarity": "Promo",
+        "expansion_id": 3945,
+        "expansion_name": "Championships Promo",
+        "image_url": ""
+    },
+    {
+        "id": 255427,
+        "name": "Tony Tony.Chopper",
+        "collector_number": "OP02-034",
+        "rarity": "Promo",
+        "expansion_id": 3945,
+        "expansion_name": "Championships Promo",
+        "image_url": ""
+    },
+    {
+        "id": 315209,
+        "name": "Sabo",
+        "collector_number": "ST13-001",
+        "rarity": "Promo",
+        "expansion_id": 3945,
+        "expansion_name": "Championships Promo",
+        "image_url": ""
+    },
+    {
+        "id": 295889,
+        "name": "Eustass\"Captain\"Kid",
+        "collector_number": "ST02-013",
+        "rarity": "Promo",
+        "expansion_id": 3945,
+        "expansion_name": "Championships Promo",
+        "image_url": ""
+    },
+    {
+        "id": 294881,
+        "name": "Dracule Mihawk",
+        "collector_number": "ST03-005",
+        "rarity": "Promo",
+        "expansion_id": 3945,
+        "expansion_name": "Championships Promo",
+        "image_url": ""
+    },
+    {
+        "id": 255425,
+        "name": "Gecko Moria",
+        "collector_number": "ST03-004",
+        "rarity": "Promo",
+        "expansion_id": 3945,
+        "expansion_name": "Championships Promo",
+        "image_url": ""
+    },
+    {
+        "id": 315918,
+        "name": "Helmeppo",
+        "collector_number": "OP03-091",
+        "rarity": "Promo",
+        "expansion_id": 3945,
+        "expansion_name": "Championships Promo",
+        "image_url": ""
+    },
+    {
+        "id": 295885,
+        "name": "Shirahoshi",
+        "collector_number": "OP03-116",
+        "rarity": "Promo",
+        "expansion_id": 3945,
+        "expansion_name": "Championships Promo",
+        "image_url": ""
+    },
+    {
+        "id": 315208,
+        "name": "Portgas.D.Ace",
+        "collector_number": "ST13-002",
+        "rarity": "Promo",
+        "expansion_id": 3945,
+        "expansion_name": "Championships Promo",
+        "image_url": ""
+    },
+    {
+        "id": 296974,
+        "name": "Sentomaru",
+        "collector_number": "ST03-007",
+        "rarity": "Promo",
+        "expansion_id": 3945,
+        "expansion_name": "Championships Promo",
+        "image_url": ""
+    },
+    {
+        "id": 295877,
+        "name": "Kouzuki Momonosuke",
+        "collector_number": "OP01-041",
+        "rarity": "Promo",
+        "expansion_id": 3945,
+        "expansion_name": "Championships Promo",
+        "image_url": ""
+    },
+    {
+        "id": 295878,
+        "name": "Monkey.D.Luffy",
+        "collector_number": "P-041c",
+        "rarity": "Promo",
+        "expansion_id": 3945,
+        "expansion_name": "Championships Promo",
+        "image_url": ""
+    },
+    {
+        "id": 294887,
+        "name": "Bartolomeo",
+        "collector_number": "P-029",
+        "rarity": "Promo",
+        "expansion_id": 3945,
+        "expansion_name": "Championships Promo",
+        "image_url": ""
+    },
+    {
+        "id": 295887,
+        "name": "Trafalgar Law",
+        "collector_number": "P-017",
+        "rarity": "Promo",
+        "expansion_id": 3945,
+        "expansion_name": "Championships Promo",
+        "image_url": ""
+    },
+    {
+        "id": 295888,
+        "name": "Monkey.D.Luffy",
+        "collector_number": "ST01-012",
+        "rarity": "Promo",
+        "expansion_id": 3945,
+        "expansion_name": "Championships Promo",
+        "image_url": ""
+    },
+    {
+        "id": 295883,
+        "name": "Kaya",
+        "collector_number": "OP03-044",
+        "rarity": "Promo",
+        "expansion_id": 3945,
+        "expansion_name": "Championships Promo",
+        "image_url": ""
+    },
+    {
+        "id": 250631,
+        "name": "Borsalino",
+        "collector_number": "OP02-114",
+        "rarity": "Promo",
+        "expansion_id": 3945,
+        "expansion_name": "Championships Promo",
+        "image_url": ""
+    },
+    {
+        "id": 290967,
+        "name": "Charlotte Pudding",
+        "collector_number": "OP03-112",
+        "rarity": "Promo",
+        "expansion_id": 3945,
+        "expansion_name": "Championships Promo",
+        "image_url": ""
+    },
+    {
+        "id": 295879,
+        "name": "Trafalgar Law",
+        "collector_number": "ST03-008",
+        "rarity": "Promo",
+        "expansion_id": 3945,
+        "expansion_name": "Championships Promo",
+        "image_url": ""
+    },
+    {
+        "id": 290969,
+        "name": "Charlotte Katakuri",
+        "collector_number": "OP03-123",
+        "rarity": "Promo",
+        "expansion_id": 3945,
+        "expansion_name": "Championships Promo",
+        "image_url": ""
+    },
+    {
+        "id": 250630,
+        "name": "Sakazuki",
+        "collector_number": "OP02-099",
+        "rarity": "Promo",
+        "expansion_id": 3945,
+        "expansion_name": "Championships Promo",
+        "image_url": ""
+    },
+    {
+        "id": 282242,
+        "name": "Trafalgar Law",
+        "collector_number": "ST10-010",
+        "rarity": "Promo",
+        "expansion_id": 3945,
+        "expansion_name": "Championships Promo",
+        "image_url": ""
+    },
+    {
+        "id": 290968,
+        "name": "Charlotte Linlin",
+        "collector_number": "OP03-114",
+        "rarity": "Promo",
+        "expansion_id": 3945,
+        "expansion_name": "Championships Promo",
+        "image_url": ""
+    },
+    {
+        "id": 315212,
+        "name": "Cavendish",
+        "collector_number": "EB01-012",
+        "rarity": "Promo",
+        "expansion_id": 3945,
+        "expansion_name": "Championships Promo",
+        "image_url": ""
+    },
+    {
+        "id": 315205,
+        "name": "Jack",
+        "collector_number": "OP08-084",
+        "rarity": "Promo",
+        "expansion_id": 3945,
+        "expansion_name": "Championships Promo",
+        "image_url": ""
+    },
+    {
+        "id": 315200,
+        "name": "Camie",
+        "collector_number": "OP06-025",
+        "rarity": "Promo",
+        "expansion_id": 3945,
+        "expansion_name": "Championships Promo",
+        "image_url": ""
+    },
+    {
+        "id": 315213,
+        "name": "Tony Tony.Chopper",
+        "collector_number": "EB01-006",
+        "rarity": "Promo",
+        "expansion_id": 3945,
+        "expansion_name": "Championships Promo",
+        "image_url": ""
+    },
+    {
+        "id": 294888,
+        "name": "Black Maria",
+        "collector_number": "ST04-011",
+        "rarity": "Promo",
+        "expansion_id": 3945,
+        "expansion_name": "Championships Promo",
+        "image_url": ""
+    },
+    {
+        "id": 295880,
+        "name": "Monkey.D.Luffy",
+        "collector_number": "OP07-109",
+        "rarity": "Promo",
+        "expansion_id": 3945,
+        "expansion_name": "Championships Promo",
+        "image_url": ""
+    },
+    {
+        "id": 315919,
+        "name": "Sanji",
+        "collector_number": "OP03-102",
+        "rarity": "Promo",
+        "expansion_id": 3945,
+        "expansion_name": "Championships Promo",
+        "image_url": ""
+    },
+    {
+        "id": 315921,
+        "name": "Pearl",
+        "collector_number": "OP03-031",
+        "rarity": "Promo",
+        "expansion_id": 3945,
+        "expansion_name": "Championships Promo",
+        "image_url": ""
+    },
+    {
+        "id": 315920,
+        "name": "Jozu",
+        "collector_number": "OP02-008",
+        "rarity": "Promo",
+        "expansion_id": 3945,
+        "expansion_name": "Championships Promo",
+        "image_url": ""
+    },
+    {
+        "id": 315922,
+        "name": "Mr.2.Bon.Kurei",
+        "collector_number": "OP01-084",
+        "rarity": "Promo",
+        "expansion_id": 3945,
+        "expansion_name": "Championships Promo",
+        "image_url": ""
+    }
+]
